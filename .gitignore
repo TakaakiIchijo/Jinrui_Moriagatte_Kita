@@ -4,6 +4,9 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/Assets/NCMB*
+/Assets/Editor/NCMBMenu.cs
+/Assets/Plugins*
 
 # Visual Studio 2015 cache directory
 /.vs/
